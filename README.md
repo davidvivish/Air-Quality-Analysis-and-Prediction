@@ -1,5 +1,5 @@
 # **Final Project: Air Quality Analysis and Prediction**
-This project was conducted by a group of students from MECE E4520: Data Science For Mechanical Systems at Columbia University.
+This project was conducted by a group of students from MECE E4520: Data Science For Mechanical Systems at Columbia University. The Final Report includes the code!
 
 ## **Project Description**
 This project uses advanced data analysis and machine learning techniques to analyze and predict air pollution levels. The study investigates pollutant concentration trends and temporal variations in an urban environment by leveraging real-world air quality data from the UCI Machine Learning Repository. The project also explores methods for developing accurate predictive models to support environmental management strategies.
